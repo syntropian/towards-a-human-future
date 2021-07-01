@@ -2,7 +2,7 @@
 surviving the 21st century and achieving the next major evolutionary transition in individuality
 
 ## Introduction
-"Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose." -- Fred Hoyle
+"Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose." -- Fred Hoyle [test](<#test>)
 
 Earthrise photo (Apollo 8)
 
@@ -119,5 +119,9 @@ Csikszentmihalyi - increasing complexity expressed as increasing integration, di
 
 ## Annotated Bibliography by Author, Date, Title
 
+### Bookchin, Murray
+
+<a id="test"/>test
+
 ### Callicott, J. Baird
-<a id="callicott2013"/>"2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic"
+<a id="callicott2013"/>2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic
