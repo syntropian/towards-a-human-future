@@ -98,7 +98,7 @@ Anarchist ethics: the instrinsic value of an individual sentient being, indivisi
 
 ### World as Lover, World as Self
 Gaian ethics: the intrinsic value of the biosphere as a collective whole, along with all of the individual living components of which it consists
-[callicott2013](Callicott, 2013)
+<a href="callicott2013">(Callicott, 2013)</a>
 
 ### Never Alone Again
 Panbiotic ethics: the intrinsic value of life in the universe
