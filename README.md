@@ -121,4 +121,4 @@ Csikszentmihalyi - increasing complexity expressed as increasing integration, di
 
 ### Callicott, J. Baird
 
-<a id="callicott2013">2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic</a>
+<a id="callicott2013"/>2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic
