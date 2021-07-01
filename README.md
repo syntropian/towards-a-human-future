@@ -2,7 +2,8 @@
 surviving the 21st century and achieving the next major evolutionary transition in individuality
 
 ## Introduction
-"Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose." -- Fred Hoyle
+> "Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose."
+> - Fred Hoyle
 
 Earthrise photo (Apollo 8)
 
@@ -120,7 +121,7 @@ Csikszentmihalyi - increasing complexity expressed as increasing integration, di
 ## Annotated Bibliography by Author, Date, Title
 
 ### Bookchin, Murray
-2002: <a href="http://new-compass.net/articles/communalist-project">"The Communalist Project," /Communalism: International Journal for a Rational Society/, 2 (November 2002)</a>
+2002: <a href="http://new-compass.net/articles/communalist-project">The Communalist Project</a>, *Communalism: International Journal for a Rational Society*, 2 (November 2002)
 
 ### Callicott, J. Baird
 2013: <a id="callicott2013"/>Thinking Like a Planet: The Land Ethic and the Earth Ethic
