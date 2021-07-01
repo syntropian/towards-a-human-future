@@ -120,10 +120,10 @@ Csikszentmihalyi - increasing complexity expressed as increasing integration, di
 ## Annotated Bibliography by Author, Date, Title
 
 ### Bookchin, Murray
-<a href="http://new-compass.net/articles/communalist-project">2002, The Communialist Project, in Communalism: International Journal for a Rational Society, 2 (November 2002)
+2002 : <a href="http://new-compass.net/articles/communalist-project">The Communialist Project, in Communalism: International Journal for a Rational Society, 2 (November 2002)
 
 ### Callicott, J. Baird
-<a id="callicott2013"/>2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic
+2013 : <a id="callicott2013"/>Thinking Like a Planet: The Land Ethic and the Earth Ethic
 
 ### Ostrom, Elinor
-<a id="ostrom1990"/>1990, Governing the Commons: The Evolution of Institutions for Collective Action (Cambridge University Press) http://wtf.tw/ref/ostrom_1990.pdf
+1990 : <a id="ostrom1990"/><a href="http://wtf.tw/ref/ostrom_1990.pdf">Governing the Commons: The Evolution of Institutions for Collective Action (Cambridge University Press) </a>
