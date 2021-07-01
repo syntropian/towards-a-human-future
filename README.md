@@ -2,7 +2,7 @@
 surviving the 21st century and achieving the next major evolutionary transition in individuality
 
 ## Introduction
-"Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose." -- Fred Hoyle [test](<#test>)
+"Once a photograph of the Earth, taken from the outside, is available... a new idea as powerful as any in history will be let loose." -- Fred Hoyle
 
 Earthrise photo (Apollo 8)
 
@@ -120,8 +120,10 @@ Csikszentmihalyi - increasing complexity expressed as increasing integration, di
 ## Annotated Bibliography by Author, Date, Title
 
 ### Bookchin, Murray
-
-<a id="test"/>test
+<a href="http://new-compass.net/articles/communalist-project">2002, The Communialist Project, in Communalism: International Journal for a Rational Society, 2 (November 2002)
 
 ### Callicott, J. Baird
 <a id="callicott2013"/>2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic
+
+### Ostrom, Elinor
+<a id="ostrom1990"/>1990, Governing the Commons: The Evolution of Institutions for Collective Action (Cambridge University Press) http://wtf.tw/ref/ostrom_1990.pdf
