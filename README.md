@@ -98,6 +98,7 @@ Anarchist ethics: the instrinsic value of an individual sentient being, indivisi
 
 ### World as Lover, World as Self
 Gaian ethics: the intrinsic value of the biosphere as a collective whole, along with all of the individual living components of which it consists
+[[Callicott, 2013]]
 
 ### Never Alone Again
 Panbiotic ethics: the intrinsic value of life in the universe
@@ -116,3 +117,8 @@ Utilitarian and deontological calculus for value of future life
 
 Csikszentmihalyi - increasing complexity expressed as increasing integration, differentiation - as an inherent good
 
+## Annotated Bibliography by Author, Date, Title
+
+### Callicott, J. Baird
+
+<a id="Callicott, 2013">2013, Thinking Like a Planet: The Land Ethic and the Earth Ethic
